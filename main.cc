@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
    p.setRenderHint(QPainter::Antialiasing);
 
    //draw boundaries
-   p.setPen(QPen(Qt::black, 8, Qt::SolidLine, Qt::RoundCap));
+   p.setPen(QPen(Qt::black, 5, Qt::SolidLine, Qt::SquareCap));
    p.drawLine(cx2qtc(4500), cy2qtc(3000), cx2qtc(4500), cy2qtc(-3000));
    p.drawLine(cx2qtc(-4500), cy2qtc(3000), cx2qtc(4500), cy2qtc(3000));
    p.drawLine(cx2qtc(-4500), cy2qtc(3000), cx2qtc(-4500), cy2qtc(-3000));
