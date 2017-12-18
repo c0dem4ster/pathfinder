@@ -1,3 +1,5 @@
+/*functions for trajectory generation*/
+
 #include <stdint.h>
 
 //waypoint distance

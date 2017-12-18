@@ -1,3 +1,5 @@
+/*functions for trajectory generation*/
+
 #include <math.h>
 #include <stdint.h>
 #include <iostream>

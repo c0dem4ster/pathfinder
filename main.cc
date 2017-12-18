@@ -1,3 +1,5 @@
+/*example use-case for functions*/
+
 #include <QApplication>
 #include <QLabel>
 #include <QPicture>
